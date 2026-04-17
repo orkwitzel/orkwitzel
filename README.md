@@ -22,7 +22,7 @@ $ cat ~/.current-vibes
 <br/>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=orkwitzel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=orkwitzel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orkwitzel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
