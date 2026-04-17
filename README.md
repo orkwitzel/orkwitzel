@@ -1,16 +1,22 @@
-<h1 align="center">hey, I'm Or 👋</h1>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=720&height=50&lines=hey%2C+I'm+Or+%F0%9F%91%8B;full-stack+dev+based+in+Israel;probably+fighting+a+yaml+file+right+now" alt="typing headline" />
+
+</div>
+
+```bash
+$ whoami
+or kwitzel · full-stack dev · שלום
+
+$ cat ~/.current-vibes
+- ~80%  cmd+tabbing between an IDE and a terminal
+- ~15%  obsessing over a keyboard layout
+-  ~5%  quietly realizing I over-engineered the thing
+```
 
 <p align="center">
-  full-stack dev · based in Israel · lives between a terminal and a mechanical keyboard
-</p>
-
-<p align="center">
-  <a href="mailto:orkwitzel@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/or-kwitzel-83294b2b4/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <a href="mailto:orkwitzel@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/or-kwitzel-83294b2b4/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 <br/>
@@ -22,7 +28,6 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=orkwitzel&theme=tokyonight&hide_border=true" />
-</p>
-
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=orkwitzel&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="trophies" />
+</div>
