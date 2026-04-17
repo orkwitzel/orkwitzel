@@ -26,8 +26,3 @@ $ cat ~/.current-vibes
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orkwitzel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=orkwitzel&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="trophies" />
-</div>
